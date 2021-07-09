@@ -2,7 +2,7 @@
 require_once(__DIR__ . '/../init.php');
 
 // Please fetch your API key from here https://portal.telnyx.com/#/app/api-keys
-\Telnyx\Telnyx::setApiKey('######');
+\Telnyx\Telnyx::setApiKey('KEY0179D2BA898F45EC6884A0ED62268ACD_BaH8c4nGD8i29prJu5C5Jg');
 
 ?>
 <style>
